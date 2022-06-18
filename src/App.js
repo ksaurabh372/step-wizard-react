@@ -51,7 +51,7 @@ function App() {
 
   return (
     <div className="App">
-      <h4>Step wizard in React - <a href="https://www.cluemediator.com" title="Clue Mediator" target="_blank" rel="nofollow">Clue Mediator</a></h4>
+      <h4>Step wizard in React</h4>
       <div className="box">
         <div className="steps">
           <ul className="nav">
